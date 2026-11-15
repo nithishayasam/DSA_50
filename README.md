@@ -8,6 +8,7 @@
 | 1 | C++ basics | [day01](day01/) | Variables, data types, operators | - |
 | 2 | Conditionals, loops, patterns | [day02](day02/) | if/else, while loop, for loops, pyramid pattern | - |
 | 3 | Functions | [day03](day03/) | Factorial, minimum of 2 num, area functions | - |
+| 4 | Functions (pass by value, recursion) | [day04](day04/) | Pass by value, sum of digits, nCr, Fibonacci, prime check | - |
 
 ## How to run
 g++ file.cpp -o file.exe
