@@ -11,6 +11,7 @@
 | 4 | Functions (pass by value, recursion) | [day04](day04/) | Pass by value, sum of digits, nCr, Fibonacci, prime check | - |
 | 5 | Binary and bitwise operators | [day05](day05/) | Binary conversion, AND, OR, XOR, NOT, left/right shift | - |
 | 6 | Arrays | [day06](day06) | Reverse array, smallest and largest element, sum and product of elements | - |
+| 7 | Vectors and arrays | [day07](day07) | Vector basics, single number, max subarray, linear search | - |
 
 ## How to run
 g++ file.cpp -o file.exe
