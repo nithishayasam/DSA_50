@@ -13,6 +13,7 @@
 | 6 | Arrays | [day06](day06) | Reverse array, smallest and largest element, sum and product of elements | - |
 | 7 | Vectors and arrays | [day07](day07) | Vector basics, single number, max subarray, linear search | - |
 
+
 ## How to run
 g++ file.cpp -o file.exe
 
