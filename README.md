@@ -12,6 +12,8 @@
 | 5 | Binary and bitwise operators | [day05](day05/) | Binary conversion, AND, OR, XOR, NOT, left/right shift | - |
 | 6 | Arrays | [day06](day06) | Reverse array, smallest and largest element, sum and product of elements | - |
 | 7 | Vectors and arrays | [day07](day07) | Vector basics, single number, max subarray, linear search | - |
+| 8 | Arrays and vectors | [day08](day08) | Majority element, pair sum problem | - |
+
 
 
 ## How to run
