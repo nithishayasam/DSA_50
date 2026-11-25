@@ -17,6 +17,9 @@
 | 10 | Arrays and vectors | [day10](day10) | Power function, rotate array by k places, best time to buy and sell stock | - |
 | 11 | Two pointers | [day11](day11) | Container with most water | - |
 | 12 | Arrays | [day12](day12) | Product of array except self | - |
+| 13 | Pointers | [day13](day13) | pointers and references | - |
+
+
 
 ## How to run
 g++ file.cpp -o file.exe
